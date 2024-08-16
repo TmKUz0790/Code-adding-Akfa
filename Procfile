@@ -1,0 +1,1 @@
+web: gunicorn code_enter_systeam.wsgi --log-file -
